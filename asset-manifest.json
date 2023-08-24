@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/CodePen_Clone/static/css/main.5720ea93.css",
-    "main.js": "/CodePen_Clone/static/js/main.8d72887f.js",
-    "index.html": "/CodePen_Clone/index.html",
-    "main.5720ea93.css.map": "/CodePen_Clone/static/css/main.5720ea93.css.map",
-    "main.8d72887f.js.map": "/CodePen_Clone/static/js/main.8d72887f.js.map"
+    "main.css": "/Online_Editor/static/css/main.5720ea93.css",
+    "main.js": "/Online_Editor/static/js/main.8d72887f.js",
+    "index.html": "/Online_Editor/index.html",
+    "main.5720ea93.css.map": "/Online_Editor/static/css/main.5720ea93.css.map",
+    "main.8d72887f.js.map": "/Online_Editor/static/js/main.8d72887f.js.map"
   },
   "entrypoints": [
     "static/css/main.5720ea93.css",
